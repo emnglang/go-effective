@@ -1,7 +1,4 @@
 /*
-	This file is using the standard Go format.
-	You can format a file using fmt command:
-		go fmt filename
 */
 package main
 
